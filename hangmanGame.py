@@ -10,7 +10,7 @@ ls=[]
 for i in chosen_word:
     ls.append('_ ')
 
-print(f'\nThe solution is {chosen_word}.')
+#print(f'\nThe solution is {chosen_word}.')
 endOfGame=False
 
 while not endOfGame:
